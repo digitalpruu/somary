@@ -64,12 +64,8 @@
       {
         "name": "Facebook",
         "description": "Somary",
-        "icon": "/assets/images/facebook.jpg"
-      },
-      {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
